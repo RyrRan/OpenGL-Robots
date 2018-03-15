@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (A1Skeleton.vcxproj, Assignment1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(242): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(250): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(179): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(180): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(301): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(304): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(350): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(354): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(358): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(362): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(437): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(441): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(445): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\main.c(446): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Vector3D.c
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\vector3d.c(51): warning C4028: formal parameter 1 different from declaration
+  QuadMesh.c
+  Matrix3D.c
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(629): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(630): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\matrix3d.c(631): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  CubeMesh.c
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\cubemesh.c(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ryr\documents\visual studio 2017\projects\a2final\a2\a1skeleton\cubemesh.c(49): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  A1Skeleton.vcxproj -> C:\Users\RYR\Documents\Visual Studio 2017\Projects\A2FINAL\A2\Debug\Assignment2.exe
